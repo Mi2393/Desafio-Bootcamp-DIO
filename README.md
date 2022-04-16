@@ -2,4 +2,4 @@
 Criando projeto 
 
 ##
-[Sintaxe Basica Markdown](https://www.mardowguide.org/basic-syntax/)
+[Sintaxe Basica Markdown](https://markdownlivepreview.com/)
